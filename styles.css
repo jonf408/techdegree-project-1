@@ -202,5 +202,11 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
+.experience-header{
+  text-align: center;
+  background: url('images/experience-header-image.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 120px;
+}
 }
